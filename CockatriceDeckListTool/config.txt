@@ -1,0 +1,2 @@
+﻿C:\Users\lpnam\Desktop\CockatricePortable\data\decks\Commander
+C:\Users\lpnam\Desktop\CockatricePortable\data\decks\Commander\decks_in_play.txt
